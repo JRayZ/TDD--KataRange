@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jhona\\Desktop\\Files\\INTEC\\katarange\\KataRange\\KataRange.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jhona\\Desktop\\Files\\INTEC\\katarange\\KataRange\\KataRange.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jhona\\Desktop\\Files\\INTEC\\katarange\\KataRange\\KataRange.csproj",
+        "projectName": "KataRange",
+        "projectPath": "C:\\Users\\jhona\\Desktop\\Files\\INTEC\\katarange\\KataRange\\KataRange.csproj",
+        "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhona\\Desktop\\Files\\INTEC\\katarange\\KataRange\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jhona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
